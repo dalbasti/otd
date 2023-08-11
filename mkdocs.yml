@@ -1,6 +1,6 @@
 site_name: otd # Change this to your site name
 site_description: github publisher ile deneme 
-site_url: https://.io/ # Change this to your site URL
+site_url: https://dalbasti.github.io/otd # Change this to your site URL
 
 theme:
     name: 'material'
